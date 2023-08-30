@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Kubernetes (admission-webhook \ hybrid orchestration \ runtime and more)
+- 🌱 I’m currently learning CNI\GPU Cluster\Linux\more
+- 📫 How to reach me: herbertduan@qq.com ; herbertduan@outlook.com
+
+### Happy coding, Keep learning
+
 <!--
 **herb-duan/herb-duan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
