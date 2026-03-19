@@ -1,23 +1,24 @@
-### Hi there 👋
+### Hi there 👋 I'm Herb Duan
 
-- 🔭 I’m currently working on Kubernetes (admission-webhook \ hybrid orchestration \ runtime and more)
-- 🌱 I’m currently learning CNI\GPU Cluster\Linux\more
-- 📫 How to reach me: herbertduan@qq.com ; herbertduan@outlook.com
-- 🧷 A personal website deployed in k3s： https://herbd.fun/ ; https://ha.herbd.fun/
+- 🔭 I’m focusing on **large-scale AI Infrastructure & Kubernetes**
+  - Cloud Native / GPU Cluster / Distributed Training Scheduling
+  - Kubelet, Runtime, Orchestration, and Performance Optimization
+  - Building high-efficiency infra for AI/LLM workloads
 
-### Happy coding, Keep learning
+- 🌱 My tech focus:
+  - AI Infra: GPU scheduling, Dynamic Resource Allocation, LLM serving
+  - Kubernetes: kubelet, runtime, CNI, scheduling, stability
+  - Linux, Cloud Native, Observability
 
-<!--
-**herb-duan/herb-duan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧩 Kubernetes upstream contributor | SIG Node / Device Management
 
-Here are some ideas to get you started:
+- 📫 Contact:
+  - herbertduan@qq.com
+  - herbertduan@outlook.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧷 Personal site & lab (running on k3s) for fun:
+  - https://herbd.fun/
+  - https://ha.herbd.fun/
+
+### Building reliable, scalable infrastructure for AI.
+### Happy coding, keep scaling.
